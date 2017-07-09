@@ -1,4 +1,4 @@
-package charpter1;
+package com.frame.wyx;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
